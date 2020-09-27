@@ -1,1 +1,1 @@
-# CSGO
+# My CSGO config
